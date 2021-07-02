@@ -1,0 +1,17 @@
+void main() {
+  
+  double nota1 = 4;
+  double nota2 = 4;
+  
+  double media = (nota1 + nota2)/2;
+  
+  print(media);
+  
+  if(media>=6){
+    print("Aprovado");
+   } 
+  else{
+    print("reprovado");
+  }
+     
+}
